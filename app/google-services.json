@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "234531907930",
+    "project_id": "wafa-food",
+    "storage_bucket": "wafa-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234531907930:android:f7421ccc9b402ed15dab63",
+        "android_client_info": {
+          "package_name": "com.ta.wafafood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234531907930-l4fcc481mrmntq250ag7h7lhk5iia01c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ta.wafafood",
+            "certificate_hash": "60e9075f2e719551fbf0a519f2e17b510b5d8883"
+          }
+        },
+        {
+          "client_id": "234531907930-32b4nhj982rspqgu7vkn9kpgf789qcuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjqUcyMCQgzdmEiB4FdwxXOYvpPSxOyjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234531907930-32b4nhj982rspqgu7vkn9kpgf789qcuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
